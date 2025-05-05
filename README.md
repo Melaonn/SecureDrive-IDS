@@ -1,7 +1,6 @@
 # 🚗 CAN Bus Intrusion Detection System
-'
-'
-youtube video(Final output):- 
+
+Youtube video(Final output):- https://youtu.be/DOrIzwfZjwQ
 
 This project is a real-time **CAN Bus Intrusion Detection System (IDS)** designed to detect fake or malicious CAN messages in vehicle networks. It uses machine learning to classify CAN data as normal or intrusion and includes a live GUI for monitoring.
 
