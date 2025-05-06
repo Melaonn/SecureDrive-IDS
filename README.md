@@ -12,7 +12,7 @@ To enhance **vehicle security** by detecting anomalies in CAN traffic using a tr
 
 ---
 
-## 🛠️ Features
+## 🛠️ Features-
 
 - ✅ Real-time monitoring of CAN messages via `vcan0`
 - ✅ GUI with live status, intrusion alerts, and logging
